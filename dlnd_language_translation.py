@@ -426,7 +426,7 @@ tests.test_seq2seq_model(seq2seq_model)
 # In[ ]:
 
 # Number of Epochs
-epochs = 5
+epochs = 20
 # Batch Size
 batch_size = 512
 # RNN Size
